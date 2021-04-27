@@ -1,3 +1,18 @@
+h1 {
+    font-size: large;
+color: white;
+}
 body {
+    background-image: url("képek/háttér.jpg");
+}
+p {
+    font-style: normal;
+    color: aliceblue;
+}
+li {
+    color: white;
+}
+img {
+    margin: 10px;
     
 }
